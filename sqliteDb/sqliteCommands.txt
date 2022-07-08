@@ -1,0 +1,10 @@
+
+
+CREATE TABLE AMBRC_Reports(ids integer primary key, boxname text, startTime integer, endTime integer);
+
+
+
+INSERT INTO AMBRC_Reports (boxname, startTime, endTime) VALUES ("alpha", 10, 20);
+
+
+INSERT INTO AMBRC_Reports (boxname, startTime, endTime) VALUES ("beta", 5, 10);

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ActivityTabInfo.qml</file>
+        <file>DurationItem.qml</file>
+        <file>History.qml</file>
+        <file>Graphs.qml</file>
+    </qresource>
+</RCC>
